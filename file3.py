@@ -1,1 +1,1 @@
-print("Amo animais")
+print("Amo animais") 
